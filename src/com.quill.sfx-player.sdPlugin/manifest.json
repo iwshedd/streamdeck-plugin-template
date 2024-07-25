@@ -1,12 +1,12 @@
 {
 	"SDKVersion": 2,
-	"Author": "Elgato Systems",
+	"Author": "Quill_Issue",
 	"CodePath": "app.html",
 	"Description": "Example description",
 	"Name": "Stream Deck Template",
 	"Icon": "actions/template/assets/action",
 	"URL": "https://www.elgato.com/en/gaming/stream-deck",
-	"Version": "1.0.2",
+	"Version": "0.0.1",
 	"Software": {
 		"MinimumVersion": "5.0"
 	},
@@ -42,7 +42,7 @@
 				}
 			],
 			"Tooltip": "This is an example tooltip",
-			"UUID": "com.elgato.template.action",
+			"UUID": "com.quill.sfx-player.action",
 			"PropertyInspectorPath": "actions/template/property-inspector/inspector.html"
 		}
 	]
